@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Renax/static/css/main.1d0a262b.css",
+    "main.js": "/Renax/static/js/main.fb9e491d.js",
+    "static/media/Car_Rental_Video(720p).mp4": "/Renax/static/media/Car_Rental_Video(720p).b5f224dab9be50360f7e.mp4",
+    "static/media/asset 41.jpeg": "/Renax/static/media/asset 41.0ea0529f83dc33bcd842.jpeg",
+    "static/media/asset 39.jpeg": "/Renax/static/media/asset 39.1ca8dbf20e01df7eea5a.jpeg",
+    "static/media/asset 8.jpeg": "/Renax/static/media/asset 8.3a44697fabda4a9f174e.jpeg",
+    "static/media/asset 10.jpeg": "/Renax/static/media/asset 10.e80c417c2c02e43b23c7.jpeg",
+    "static/media/asset 40.jpeg": "/Renax/static/media/asset 40.771ae52c99075db3dc57.jpeg",
+    "static/media/asset15.jpeg": "/Renax/static/media/asset15.78e132eb897a1a6b1f04.jpeg",
+    "static/media/c5.jpg": "/Renax/static/media/c5.ece075e326d31811e870.jpg",
+    "static/media/asset 5.jpeg": "/Renax/static/media/asset 5.4dc55864e27da78964cd.jpeg",
+    "static/media/slick.svg": "/Renax/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Renax/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Renax/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Renax/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Renax/index.html",
+    "main.1d0a262b.css.map": "/Renax/static/css/main.1d0a262b.css.map",
+    "main.fb9e491d.js.map": "/Renax/static/js/main.fb9e491d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0a262b.css",
+    "static/js/main.fb9e491d.js"
+  ]
+}
